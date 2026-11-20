@@ -1,0 +1,4 @@
+samples_total=7392
+samples_dropped_gc=0
+minimax_cutoff=24
+mean_regret_cutoff=40

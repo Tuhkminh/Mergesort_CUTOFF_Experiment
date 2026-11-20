@@ -1,0 +1,4 @@
+n,a_merge_ns_per_elem_level,b_insertion_ns_per_inversion,c_const_ns_per_elem,R2,model_best_cutoff,measured_best_cutoff
+10000,6.5859,1.5858,30.2996,0.9753,20,20
+100000,6.0039,1.521,51.2146,0.9876,28,24
+1000000,6.2514,1.6746,92.159,0.9314,16,48
